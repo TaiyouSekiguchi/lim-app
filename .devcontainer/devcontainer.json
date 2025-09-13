@@ -17,7 +17,8 @@
         "eamodio.gitlens",
         "mhutchie.git-graph",
         "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "prisma.prisma"
       ],
       "settings": {
         "terminal.integrated.defaultProfile.linux": "bash",
